@@ -2,3 +2,4 @@ lmdb/*
 backup/
 PlantVillage-Dataset-processed
 cycleGAN_data
+vaibhav_cycleGAN\sunny2normal_256.npz/
