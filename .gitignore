@@ -3,3 +3,8 @@ backup/
 PlantVillage-Dataset-processed
 cycleGAN_data
 vaibhav_cycleGAN/sunny2normal_256.npz
+vaibhav_cycleGAN/cloudy2normal_256.npz
+vaibhav_cycleGAN/models_sunny
+vaibhav_cycleGAN/plots_sunny
+vaibhav_cycleGAN/models_cloudy
+vaibhav_cycleGAN/plots_cloudy
