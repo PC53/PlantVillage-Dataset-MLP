@@ -8,3 +8,6 @@ vaibhav_cycleGAN/models_sunny
 vaibhav_cycleGAN/plots_sunny
 vaibhav_cycleGAN/models_cloudy
 vaibhav_cycleGAN/plots_cloudy
+model_dict.pth
+model.pth
+vaibhav_cycleGAN/drive-download-20240321T114219Z-001.zip
